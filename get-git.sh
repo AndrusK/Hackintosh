@@ -1,3 +1,4 @@
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 cd ~/Documents
 git clone https://github.com/racka98/Lenovo-Thinkpad-T450-T450s-Hackintosh-Guide-Opencore
 git clone https://github.com/corpnewt/MountEFI
